@@ -276,10 +276,14 @@ header
   background: transparent;
 }
 
+#logo{
+  margin-left: -60px;
+}
+
 .header-area .main-nav .logo {
   line-height: 80px;
   color: #191a20;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -671,8 +675,8 @@ welcome
 
 .welcome-area .header-text h1 {
   font-weight: 900;
-  font-size: 52px;
-  line-height: 80px;
+  font-size: 30px;
+  line-height: 40px;
   letter-spacing: 1px;
   margin-bottom: 30px;
   color: #191a20;
